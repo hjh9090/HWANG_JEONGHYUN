@@ -1,0 +1,47 @@
+@charset "UTF-8";
+
+
+.headText{
+	text-align: center;
+	background-color: black;
+	color: white;
+	padding-bottom: 0px;
+}
+
+.headTable{
+	
+	color: black;
+	margin: auto;
+	text-align: center;
+	
+}
+
+.headTd {
+	background-color: silver;
+	text-align: center;
+	margin: auto;
+	
+}
+
+.bodyTd{
+	margin: auto;
+}
+.footer{
+	text-align: center;
+	font-size: 30px;
+	margin-top: 30px;
+	background-color: black;
+	color: white;
+}
+
+.btn{
+	background-color: black;
+	color: white;
+	text-align: center;
+	margin-left: 40%;
+}
+
+.img{
+	width: 100px;
+	height: 100px;
+}
